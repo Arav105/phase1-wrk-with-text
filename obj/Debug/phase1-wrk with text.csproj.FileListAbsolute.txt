@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-wrk with text\phase1-wrk with text\bin\Debug\phase1-wrk with text.exe.config
+C:\Users\Admin\source\repos\phase1-wrk with text\phase1-wrk with text\bin\Debug\phase1-wrk with text.exe
+C:\Users\Admin\source\repos\phase1-wrk with text\phase1-wrk with text\bin\Debug\phase1-wrk with text.pdb
+C:\Users\Admin\source\repos\phase1-wrk with text\phase1-wrk with text\obj\Debug\phase1-wrk with text.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-wrk with text\phase1-wrk with text\obj\Debug\phase1-wrk with text.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-wrk with text\phase1-wrk with text\obj\Debug\phase1-wrk with text.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-wrk with text\phase1-wrk with text\obj\Debug\phase1-wrk with text.exe
+C:\Users\Admin\source\repos\phase1-wrk with text\phase1-wrk with text\obj\Debug\phase1-wrk with text.pdb
